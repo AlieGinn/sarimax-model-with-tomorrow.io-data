@@ -9,7 +9,7 @@ import itertools
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 
 # API isteği gönderme
-url = "https://api.tomorrow.io/v4/timelines?apikey=cyhpeemiXkGCX9ZjspxQk5He1AIWyLr5"
+url = #you can write there your own api url
 
 payload = {
     "location": "38.734802, 35.467987",
